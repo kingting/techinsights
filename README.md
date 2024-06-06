@@ -1,4 +1,4 @@
-# techinsights: project central
+# Tech Insights: project central
 
 Welcome to techinsights: project central
 
